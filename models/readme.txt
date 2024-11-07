@@ -1,0 +1,1 @@
+This folder is designated for storing models.
